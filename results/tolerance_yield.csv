@@ -1,0 +1,13 @@
+distribution,scenario,all,120 Pos 1,120 Pos 2,100 (4x),60 (4x),parallel Pos 1,perpendicular Pos 2,parallel top,gap
+normal,"Robot, ideal parts",0.00893,0.709945,0.71081,0.34055,0.34254,0.379585,0.2071,1.0,1.0
+normal,"Robot, delivered parts",0.0,0.36551,0.36389,0.00759,0.006185,0.01155,0.00025,0.000185,0.009865
+normal,"Fixture, delivered parts",0.0,0.520465,0.709715,0.045695,0.042685,1.0,1.0,0.033395,0.04792
+normal,"Centring fixture, trimmed ends",0.000695,1.0,1.0,1.0,0.428215,1.0,1.0,0.033395,0.04792
+normal,+ faced contact surfaces,0.42821,1.0,1.0,1.0,0.428215,1.0,1.0,0.999955,1.0
+normal,+ finish machining after joining,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+uniform,"Robot, ideal parts",0.00953,0.71147,0.71011,0.34162,0.342545,0.3815,0.20642,1.0,1.0
+uniform,"Robot, delivered parts",0.0,0.36506,0.364125,0.001965,0.001415,0.01209,0.00023,0.0001,0.009835
+uniform,"Fixture, delivered parts",0.0,0.30473,0.435865,0.00448,0.01003,1.0,1.0,0.011385,0.04856
+uniform,"Centring fixture, trimmed ends",6e-05,1.0,1.0,1.0,0.094555,1.0,1.0,0.011385,0.04856
+uniform,+ faced contact surfaces,0.09287,1.0,1.0,1.0,0.094555,1.0,1.0,0.982435,1.0
+uniform,+ finish machining after joining,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

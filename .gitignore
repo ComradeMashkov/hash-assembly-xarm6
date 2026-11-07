@@ -1,0 +1,11 @@
+﻿.venv/
+__pycache__/
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
+report/p*.png
+report/contact.png
+report/cadpage.png
